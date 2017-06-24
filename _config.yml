@@ -1,0 +1,29 @@
+layout_spectrum: 0.0038134705455106967
+typography_spectrum: 0.20234081973506157
+color:
+  brandStrength: 0.7085005207531301
+  lightness: 0.8662979811705686
+  saturation: 0.9997666663592589
+  rhythmicContrast: 0.41147566252554035
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+name: Applied Visual Solutions
+navigation:
+  - name: About Us
+    id: 58bb37f4-a673-4628-aaeb-7bbb5aa7d48a
+    type: content
+title: Applied Visual Solutions
+content: []
+description: Data Visualization for Power Plant Optimization
+purpose:
+  - type: contact
+    url: 'mailto:info@avsoln.com'
+    label: E-mail AVS
+  - type: internal
+    label: Contact Info
+    item: b4965cd4-8530-43a9-926f-0de437155fa9
+github: true
